@@ -1,0 +1,19 @@
+{
+  "name": "EMS",
+  "version": "1.0.0",
+  "description": "EMS",
+  "main": "server.js",
+  "scripts": {
+    "test": "react"
+  },
+  "keywords": [
+    "EMS"
+  ],
+  "author": "",
+   "dependencies": {
+    "body-parser": "^1.17.2",   
+    "express": "^4.15.3",    
+	"mysql": "*",
+    "morgan": "^1.8.2"
+  }
+}
