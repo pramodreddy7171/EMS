@@ -18,26 +18,19 @@ For mysql module installation using : npm install mysql
 7.	Implement server.js file for creation of json api calls using node js and express 
 8.	Implement home.html file for frondend home page display purpose
 9.	Implement EMS.jsx file for frondend view using react js 
+
 How to run application
 1.	Open command prompt
-2.	Using cd command change directory is created project called EMS.
-3.	Using following command to run server file
-4.	node server.js
-5.	after that open web browser using following url
-http://localhost:2017/
-display home page 
- 
-6.	enter employee details click on add employee button it will add new employee details into database
- 
-7.	in table of employee records if want to update click on update button. Enter update details after display following screen
- 
-8.	in table of employee records if want to update click on delete button. After delete display following screen
- 
-9.	after add of new employee display screen 
- 
-
-10.	After add display records
- 
-11.	Only using api call test json result in postman in google chrome
+2.      Run Mysql server on default port
+3.	Using cd command change directory is created project called EMS.
+4.	Using following command to run server file
+5.	node server.js
+6.	after that open web browser using following url http://localhost:2017/ display home page  
+7.	enter employee details click on add employee button it will add new employee details into database 
+8.	in table of employee records if want to update click on update button. Enter update details after display following screen 
+9.	in table of employee records if want to update click on delete button. After delete display following screen 
+10.	after add of new employee display screen 
+11.	After add display records 
+12.	Only using api call test json result in postman in google chrome
  
 
